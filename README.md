@@ -67,8 +67,13 @@ ________________________________________<br>
 ________________________________________
 # Output (Attach Screenshots)
 • ipconfig /all and ipv6config /all output for both PCs.<br>
+<img width="808" height="444" alt="image" src="https://github.com/user-attachments/assets/f05a9fbb-4f48-4d60-9ca9-a9446a7a8c1c" />
+<img width="805" height="394" alt="image" src="https://github.com/user-attachments/assets/73bdce64-366e-44bd-9ce0-5814848716a0" />
+
 • Ping results for IPv4 and IPv6.<br>
-• Traceroute results showing intermediate hops.<br>
+<img width="753" height="420" alt="image" src="https://github.com/user-attachments/assets/7f89c146-7fc1-433d-9e95-019527fc6411" />
+<img width="798" height="427" alt="image" src="https://github.com/user-attachments/assets/74c16d1a-da12-4431-9a1a-7cacb2a68aae" />
+
 ________________________________________
 # Result
 The dual-stack IPv4 and IPv6 addressing scheme was successfully verified. Both addressing types achieved full connectivity between PC1 and PC2 through multiple routers, confirming correct configuration and routing.
